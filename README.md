@@ -29,4 +29,4 @@
 
 ## 📫 Contact
 📧 rodriguez.frias.axelisaias@gmail.com  
-🔗 LinkedIn: (pon tu link aquí)
+🔗 LinkedIn: www.linkedin.com/in/rodriguez-frias-axel-isaias-696845346
