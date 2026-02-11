@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Axel Rodriguez 👋
 
-<!--
-**Axl5136/Axl5136** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Systems Engineering Student at ESCOM-IPN  
+🚀 Backend & Full Stack Developer  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Java | Spring Boot
+- JavaScript | React | Node.js
+- SQL | Supabase
+- Git & GitHub
+
+---
+
+## 🚀 What I’m Building
+- Scalable backend systems
+- Web applications
+- MVP projects
+
+---
+
+## 📈 Currently Learning
+- Software Architecture
+- Clean Code Principles
+- Advanced Backend Development
+
+---
+
+## 📫 Contact
+📧 rodriguez.frias.axelisaias@gmail.com  
+🔗 LinkedIn: (pon tu link aquí)
