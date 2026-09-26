@@ -17,6 +17,11 @@ Trabajo el producto de punta a punta: entiendo el caso de uso, diseño la intera
 
 ## Trabajo
 
+### NEXUS
+Protocolo para creadores en LATAM. Interfaz en React y contratos en Solidity, con agentes que mueven la economía del producto. 2º lugar en Ethereum México × Bitso.
+
+`React` `Solidity` `Node.js` `AI Agents`
+
 ### [Experiencia Legal](https://experiencialegal.vercel.app)
 Expedientes jurídicos, un asistente legal y firma verificable con wallet. La interfaz es el producto: el estado del expediente se lee sin salir de la pantalla.
 
@@ -27,15 +32,6 @@ Sitio de la barbería: servicios, precios y una escena en Three.js. Publicado pa
 
 `React` `TypeScript` `Vite` `Three.js` · [demo](https://rosh-barber-boys.vercel.app) · [código](https://github.com/Axl5136/rosh-barber-boys)
 
-### NEXUS
-Protocolo para creadores en LATAM. Interfaz en React y contratos en Solidity, con agentes que mueven la economía del producto. 2º lugar en Ethereum México × Bitso.
-
-`React` `Solidity` `Node.js` `AI Agents`
-
-### [Barrio Crédito](https://github.com/Axl5136/barrio-credito)
-Marketplace B2B armado en Start CDMX. Conecta productores con tiendas locales y usa IA para ordenar el flujo de crédito de micronegocios.
-
-`React` `Supabase` `Motion` · [código](https://github.com/Axl5136/barrio-credito)
 
 ### [Coffee Panini](https://coffee-panini.vercel.app)
 Menú digital de pizza, pasta y café, con el local y cómo llegar.
@@ -47,10 +43,10 @@ Menú digital de pizza, pasta y café, con el local y cómo llegar.
 | Resultado | Proyecto | Contexto |
 | --- | --- | --- |
 | 2º lugar | NEXUS | Ethereum México × Bitso |
-| Galardonado | Vyn | Código Alebrije · Stellar y BAF |
+| MVP | Vyn | Código Alebrije · Stellar y BAF |
 | 3º lugar | Nutrideko | Hackathon |
 | MVP | Barrio Crédito | Start CDMX |
-| MVP | ClearHope & HydroCredits | START · Monad |
+| MVP | ClearHope & HydroCredits | Monad |
 
 Vyn es historial crediticio on-chain para la economía informal, con Soulbound Tokens. Ahí llevé los contratos en Rust y Soroban.
 
