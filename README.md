@@ -1,55 +1,69 @@
-# Hi, I'm Axel Isaias Rodriguez Frias 👋
+<div align="center">
 
-**Software & Web3 Developer @ ESCOM IPN** | **CriptoUNAM Ambassador 🏛️** | **Building the future of DeFi 🚀**
+# Axel Rodríguez
+
+Interfaces que llegan a alguien. Contratos y agentes cuando el producto los necesita.
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1400&color=8EA4FF&center=true&vCenter=true&repeat=true&width=640&height=36&lines=React+%C2%B7+TypeScript+%C2%B7+Motion;Del+caso+de+uso+a+la+pantalla;Producto+Web3+con+interfaz+real)](https://github.com/Axl5136)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/)
+[![Email](https://img.shields.io/badge/correo-2F4156?style=flat&logo=gmail&logoColor=white)](mailto:rodriguez.frias.axelisaias@gmail.com)
+
+</div>
+
+Ingeniería en Sistemas Computacionales en la ESCOM-IPN, Ciudad de México. Embajador de CriptoUNAM, Startmaker LATAM y Tangem.
+
+Trabajo el producto de punta a punta: entiendo el caso de uso, diseño la interacción y la dejo publicada. Web3 e IA entran como parte del sistema, no como una lista de herramientas.
+
+## Trabajo
+
+### [Experiencia Legal](https://experiencialegal.vercel.app)
+Expedientes jurídicos, un asistente legal y firma verificable con wallet. La interfaz es el producto: el estado del expediente se lee sin salir de la pantalla.
+
+`React` `Python` `Ethers.js` · [demo](https://experiencialegal.vercel.app) · [código](https://github.com/Axl5136/experiencialegal)
+
+### [ROSH Barber BOYS](https://rosh-barber-boys.vercel.app)
+Sitio de la barbería: servicios, precios y una escena en Three.js. Publicado para que alguien reserve la siguiente visita.
+
+`React` `TypeScript` `Vite` `Three.js` · [demo](https://rosh-barber-boys.vercel.app) · [código](https://github.com/Axl5136/rosh-barber-boys)
+
+### NEXUS
+Protocolo para creadores en LATAM. Interfaz en React y contratos en Solidity, con agentes que mueven la economía del producto. 2º lugar en Ethereum México × Bitso.
+
+`React` `Solidity` `Node.js` `AI Agents`
+
+### [Barrio Crédito](https://github.com/Axl5136/barrio-credito)
+Marketplace B2B armado en Start CDMX. Conecta productores con tiendas locales y usa IA para ordenar el flujo de crédito de micronegocios.
+
+`React` `Supabase` `Motion` · [código](https://github.com/Axl5136/barrio-credito)
+
+### [Coffee Panini](https://coffee-panini.vercel.app)
+Menú digital de pizza, pasta y café, con el local y cómo llegar.
+
+`React` `Vite` · [demo](https://coffee-panini.vercel.app) · [código](https://github.com/Axl5136/coffee-panini)
+
+## Hackathons
+
+| Resultado | Proyecto | Contexto |
+| --- | --- | --- |
+| 2º lugar | NEXUS | Ethereum México × Bitso |
+| Galardonado | Vyn | Código Alebrije · Stellar y BAF |
+| 3º lugar | Nutrideko | Hackathon |
+| MVP | Barrio Crédito | Start CDMX |
+| MVP | ClearHope & HydroCredits | START · Monad |
+
+Vyn es historial crediticio on-chain para la economía informal, con Soulbound Tokens. Ahí llevé los contratos en Rust y Soroban.
+
+## Stack
+
+<div align="center">
+
+![React, TypeScript, Vite, Next.js, Tailwind, JavaScript, Node.js, Python, Supabase, Rust](https://skillicons.dev/icons?i=react,ts,vite,nextjs,tailwind,js,nodejs,python,supabase,rust&perline=10)
+
+</div>
+
+En la interfaz: React, TypeScript, Vite, Next.js y Motion. Debajo, cuando el producto lo pide: Solidity, Soroban, Stellar, Avalanche, LangGraph y Supabase.
 
 ---
 
-### 🚀 About Me
-
-* 🎓 **Engineering Student:** Currently pursuing a degree in **Computer Systems Engineering** at Escuela Superior de Cómputo (ESCOM - IPN).
-* 🏛️ **CriptoUNAM Ambassador:** Promoting blockchain education, adoption, and networking within the university ecosystem.
-* ⛓️ **Web3 & Smart Contract Dev:** Specialized in building scalable dApps and smart contracts using **Rust (Soroban)** and **Solidity (Avalanche)**.
-* 🤖 **AI Enthusiast:** Developing autonomous agents and RAG systems using **LangGraph** and LLMs to optimize fintech solutions.
-* 🏆 **Hackathon Builder:** Experienced **Lead & Product Owner** in high-pressure environments, focused on creating functional MVPs for the Web3 and Fintech ecosystem.
-
----
-
-### 🧠 Tech Stack
-
-**Web3 & Blockchain**
-![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Avalanche](https://img.shields.io/badge/Avalanche-%23E84142.svg?style=for-the-badge&logo=avalanche&logoColor=white)
-![Stellar](https://img.shields.io/badge/Stellar-%23000000.svg?style=for-the-badge&logo=stellar&logoColor=white)
-
-**Backend & AI**
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-
-**Frontend & Infrastructure**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### 📈 Highlighted Projects
-
-* **Vyn (Código Alebrije - Stellar & BAF):** Lead & Smart Contract Developer of an on-chain credit history platform for the informal economy using **Rust (Soroban)**.
-* **Barrio-Crédito (Fintech Hackathon):** AI Product Owner for a B2B marketplace, integrating AI tools to optimize credit flow for micro-businesses.
-* **Avax Bootcamp Solutions:** Implementation of L1/Subnets and Avalanche9000 architecture.
-
----
-
-### 📫 Let's Connect!
-
-* 💼 **LinkedIn:** [axel-isaias-rodriguez-frias](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/)
-* 📧 **Email:** rodriguez.frias.axelisaias@gmail.com
-* 🌐 **GitHub:** [Axl5136](https://github.com/Axl5136)
-
----
+Abierto a interfaces, producto y hackathons. Escríbeme por [LinkedIn](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/) o a [rodriguez.frias.axelisaias@gmail.com](mailto:rodriguez.frias.axelisaias@gmail.com).
