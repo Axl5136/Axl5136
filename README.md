@@ -6,7 +6,9 @@ Interfaces que llegan a alguien. Contratos y agentes cuando el producto los nece
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=2600&pause=1400&color=8EA4FF&center=true&vCenter=true&repeat=true&width=640&height=36&lines=React+%C2%B7+TypeScript+%C2%B7+Motion;Del+caso+de+uso+a+la+pantalla;Producto+Web3+con+interfaz+real)](https://github.com/Axl5136)
 
+[![Portafolio](https://img.shields.io/badge/portafolio-2F4156?style=flat)](https://axelisaiasrodriguezfrias.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/axel_rodf/)
 [![Email](https://img.shields.io/badge/correo-2F4156?style=flat&logo=gmail&logoColor=white)](mailto:rodriguez.frias.axelisaias@gmail.com)
 
 </div>
@@ -62,4 +64,4 @@ En la interfaz: React, TypeScript, Vite, Next.js y Motion. Debajo, cuando el pro
 
 ---
 
-Abierto a interfaces, producto y hackathons. Escríbeme por [LinkedIn](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/) o a [rodriguez.frias.axelisaias@gmail.com](mailto:rodriguez.frias.axelisaias@gmail.com).
+Abierto a interfaces, producto y hackathons. El trabajo está en el [portafolio](https://axelisaiasrodriguezfrias.netlify.app/). Escríbeme por [LinkedIn](https://www.linkedin.com/in/rodriguez-frias-axel-isaias/), [Instagram](https://www.instagram.com/axel_rodf/) o a [rodriguez.frias.axelisaias@gmail.com](mailto:rodriguez.frias.axelisaias@gmail.com).
